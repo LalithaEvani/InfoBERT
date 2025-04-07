@@ -103,13 +103,13 @@ function evalexp {
 #export NCCL_NET_GDR_READ=0
 #export NCCL_SHM_DISABLE=0
 
-export GLUE_DIR=anli_data
+export GLUE_DIR=/ssd_scratch/cvit/lalitha/5_NLP_project/infobert/anli_data/
 export TASK_NAME="anli-full"
 
 mname=${2}    # Model name
 custom=${1}   # Custom name
 lr=5e-3       # Learning rate for model parameters
-bsize=32    # Batch size
+bsize=4    # Batch size=32
 seqlen=128    # Maximum sequence length
 ts=0      # Number of training steps (counted as parameter updates)
 ws=0      # Learning rate warm-up steps
@@ -127,7 +127,7 @@ alpha=0   # alpha for controlling local robust regularizer
 cl=0   # lower threshold
 ch=0   # higher threshold
 
-expname=${custom}-load
+expname=/ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/${custom}-load
 port=$(($RANDOM + 1024))
 echo "Master port: ${port}"
 

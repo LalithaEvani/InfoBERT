@@ -59,10 +59,10 @@ class TrainingArguments:
     )
 
     per_device_train_batch_size: int = field(
-        default=8, metadata={"help": "Batch size per GPU/TPU core/CPU for training."}
+        default=4, metadata={"help": "Batch size per GPU/TPU core/CPU for training."}#default=8
     )
     per_device_eval_batch_size: int = field(
-        default=8, metadata={"help": "Batch size per GPU/TPU core/CPU for evaluation."}
+        default=4, metadata={"help": "Batch size per GPU/TPU core/CPU for evaluation."}#default=8
     )
 
     per_gpu_train_batch_size: Optional[int] = field(
