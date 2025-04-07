@@ -1,0 +1,86 @@
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-full-dev.txt <==
+eval_loss = 1.4943885669112205
+eval_acc = 0.581875
+eval_mi_info = 40.07551574707031
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-full-test.txt <==
+eval_loss = 1.5127426419965924
+eval_acc = 0.5834375
+eval_mi_info = 39.902767181396484
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r1-dev.txt <==
+eval_loss = 0.8243397582769394
+eval_acc = 0.763
+eval_mi_info = 41.48158264160156
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r1-test.txt <==
+eval_loss = 0.8653829221725464
+eval_acc = 0.756
+eval_mi_info = 41.18266677856445
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r2-dev.txt <==
+eval_loss = 1.6665467767119408
+eval_acc = 0.516
+eval_mi_info = 40.998252868652344
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r2-test.txt <==
+eval_loss = 1.6819461516737937
+eval_acc = 0.514
+eval_mi_info = 41.06496810913086
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r3-dev.txt <==
+eval_loss = 1.9092973992725213
+eval_acc = 0.48583333333333334
+eval_mi_info = 38.134857177734375
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_anli-r3-test.txt <==
+eval_loss = 1.911206150452296
+eval_acc = 0.4975
+eval_mi_info = 37.8676872253418
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-bert-adv-dev.txt <==
+eval_loss = 0.9306112273060596
+eval_acc = 0.7202072538860104
+eval_mi_info = 35.23173522949219
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-dev.txt <==
+eval_loss = 0.3075521716307401
+eval_acc = 0.910952623535405
+eval_mi_info = 33.210121154785156
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-mm-bert-adv-dev.txt <==
+eval_loss = 1.0273653223393435
+eval_acc = 0.6970509383378016
+eval_mi_info = 35.2506217956543
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-mm-dev.txt <==
+eval_loss = 0.3257720381130621
+eval_acc = 0.9070382424735557
+eval_mi_info = 33.10978317260742
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-mm-roberta-adv-dev.txt <==
+eval_loss = 1.3676381341575348
+eval_acc = 0.5703225806451613
+eval_mi_info = 35.243736267089844
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_mnli-roberta-adv-dev.txt <==
+eval_loss = 1.421166920400772
+eval_acc = 0.5367741935483871
+eval_mi_info = 35.31254959106445
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_snli-bert-adv-dev.txt <==
+eval_loss = 1.2709085724123244
+eval_acc = 0.5966981132075472
+eval_mi_info = 28.058574676513672
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_snli-dev.txt <==
+eval_loss = 0.2218445505748576
+eval_acc = 0.9312131680552733
+eval_mi_info = 25.687454223632812
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results_snli-roberta-adv-dev.txt <==
+eval_loss = 1.7512216731977235
+eval_acc = 0.41985645933014354
+eval_mi_info = 28.046602249145508
+
+==> /ssd_scratch/cvit/lalitha/5_NLP_project/infobert/outputs/best-infobert-load/eval_results.txt <==
